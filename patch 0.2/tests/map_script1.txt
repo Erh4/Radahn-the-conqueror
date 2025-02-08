@@ -1,0 +1,98 @@
+AUBE
+X=1
+Y=4
+<lymph, 30, 40>
+X=2
+Y=4
+ROCHER
+X=3
+Y=4
+<petite lymph, 10, 50>
+X=5
+Y=5
+ROCHER
+X=6
+Y=5
+{lance aveuglante, F+100, armes}
+X=11
+Y=11
+ROCHER
+X=11
+Y=12
+ROCHER
+X=11
+Y=13
+ROCHER
+X=9
+Y=11
+ROCHER
+X=9
+Y=12
+ROCHER
+X=9
+Y=13
+ROCHER
+X=14
+Y=13
+{lame horrible, F+10, armes}
+X=14
+Y=14
+ROCHER
+X=17
+Y=10
+ROCHER
+X=18
+Y=9
+ROCHER
+X=19
+Y=10
+ROCHER
+X=18
+Y=10
+{cape aveuglante, P+1200, protections} 
+X=17
+Y=13
+ROCHER
+X=18
+Y=14
+ROCHER
+X=19
+Y=13
+ROCHER
+X=18
+Y=13
+{bottes de lucidité, V+2, chaussures} 
+X=15
+Y=15
+(Oeil, 100, "Oeil, symbole de lucidité")
+X=11
+Y=15
+(Oeil percé, 50, "Membrane d'un oeil vidé de son jus")
+X=15
+Y=16
+<MACULA, 100, 500>
+X=2
+Y=16
+(Yeux éveillés, 500, "Paire d'yeux qui ont vu ce qui ne devait pas l'être")
+X=9
+Y=17
+{Griffes viscérales, F+200, armes}
+X=10
+Y=0
+ROCHER
+X=9
+Y=0
+ROCHER
+X=11
+Y=0
+ROCHER
+X=8
+Y=1
+ROCHER
+X=12
+Y=1
+ROCHER
+X=10
+Y=1
+<AMYGDALA, 200, 1500>
+CREPUSCULE  

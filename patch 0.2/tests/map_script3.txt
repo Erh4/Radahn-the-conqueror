@@ -1,0 +1,32 @@
+AUBE
+X=0
+Y=0
+{lance en bois, F+5, armes}
+X=1
+Y=1
+{plastron de rubis, P+10, protections}
+X=2
+Y=2
+{lance en bois, F+5, armes}
+X=3
+Y=3
+<gorack, 3, 25>
+X=4
+Y=4
+(pomme, 3, "Fruit jolie mais sans grand intérêt")
+X=5
+Y=5
+<Python, 100, 1000>
+X=8
+Y=5
+(peche, 3, "Fruit jolie mais sans grand intérêt")
+X=16
+Y=5
+<gorack, 3, 25>
+X=15
+Y=5
+{bottes en peau de crocro, V+10, chaussures}
+X=11
+Y=7
+<gorack, 3, 25>
+CREPUSCULE 

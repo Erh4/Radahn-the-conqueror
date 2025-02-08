@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdprof.h": "c",
+        "player.h": "c",
+        "stdlib.h": "c",
+        "weapon.h": "c",
+        "entity.h": "c",
+        "commandes.h": "c",
+        "stdio.h": "c",
+        "map_editor.h": "c",
+        "object.h": "c",
+        "__tree": "c",
+        "map": "c"
+    }
+}
